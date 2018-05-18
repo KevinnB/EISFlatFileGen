@@ -1,0 +1,16 @@
+{
+  "name": "EISFlatFileGen",
+  "version": "1.0.0",
+  "description": "This is a helper project that will assist in creating flat files for ingestion from a single file. This will increase the speed at which flat files can be generated to increase testing capabilities.",
+  "main": "index.js",
+  "repository": "https://github.com/KevinnB/EISFlatFileGen.git",
+  "author": "Kevin <kleach0@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "args": "^4.0.0",
+    "n-readlines": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
