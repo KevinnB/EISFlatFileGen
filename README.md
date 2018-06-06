@@ -12,7 +12,7 @@ This is a helper project that will assist in creating flat files for ingestion f
 ### npm
 
 ```
-git clone [https://github.com/KevinnB/EISFlatFileGen.git](https://github.com/KevinnB/EISFlatFileGen.git)
+git clone https://github.com/KevinnB/EISFlatFileGen.git
 cd EISFlatFileGen
 npm install
 ```
@@ -20,7 +20,7 @@ npm install
 ### yarn
 
 ```
-git clone [https://github.com/KevinnB/EISFlatFileGen.git](https://github.com/KevinnB/EISFlatFileGen.git)
+git clone https://github.com/KevinnB/EISFlatFileGen.git
 cd EISFlatFileGen
 yarn install
 ```
